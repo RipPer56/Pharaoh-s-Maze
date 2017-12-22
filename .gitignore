@@ -15,7 +15,5 @@ gradle-app.setting
 
 assets/*
 assets/
-bin/
-bin/*
 maZe_imgs/
 maZe_imgs/*
